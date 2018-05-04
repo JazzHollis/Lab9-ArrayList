@@ -1,0 +1,7 @@
+C:\Users\rjkgi\source\repos\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.csprojResolveAssemblyReference.cache
+C:\Users\rjkgi\source\repos\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\rjkgi\source\repos\Lab9-Refactoring\Lab9-Refactoring\bin\Debug\Lab9-Refactoring.exe.config
+C:\Users\rjkgi\source\repos\Lab9-Refactoring\Lab9-Refactoring\bin\Debug\Lab9-Refactoring.exe
+C:\Users\rjkgi\source\repos\Lab9-Refactoring\Lab9-Refactoring\bin\Debug\Lab9-Refactoring.pdb
+C:\Users\rjkgi\source\repos\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.exe
+C:\Users\rjkgi\source\repos\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.pdb
